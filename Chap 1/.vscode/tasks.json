@@ -1,0 +1,46 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: cl.exe build active file",
+			"command": "cl.exe",
+			"args": [
+				"/Zi",
+				"/EHsc",
+				"/I",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\include",
+                "/I",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\SDK\\ScopeCppSDK\\vc15\\SDK\\include\\ucrt",
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\lib\\x64\\libcpmt.lib",
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\lib\\x64\\libcmt.lib",                
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\lib\\x64\\OLDNAMES.lib",                
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\SDK\\ScopeCppSDK\\vc15\\SDK\\lib\\uuid.lib",
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\SDK\\ScopeCppSDK\\vc15\\SDK\\lib\\kernel32.lib",
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\lib\\onecore\\x64\\libvcruntime.lib",
+                "/L",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\SDK\\ScopeCppSDK\\vc15\\SDK\\lib\\libucrt.lib",                				
+				"/Fe:",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"${file}"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: cl.exe"
+		}
+	]
+}

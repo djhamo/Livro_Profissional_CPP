@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tiago\Documents\Projetos\estudo-cpp\Profissional Cpp\Chap 1\Employee\build\CMakeFiles\bd3bf610c7b1b2cc473b89223a451aef\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9AE12D68-602E-38B5-8598-23FBB88DEDC5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

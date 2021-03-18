@@ -1,0 +1,9 @@
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/Experimental.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/Continuous.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/Nightly.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/EmployeeTest.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/PACKAGE.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Profissional Cpp/Chap 1/Employee/build/CMakeFiles/ZERO_CHECK.dir
